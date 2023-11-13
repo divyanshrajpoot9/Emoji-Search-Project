@@ -53,3 +53,12 @@ li{
     align-items: center;
     justify-content: space-between;
 }
+
+.emoji {
+    width: 10%;
+}
+
+.aliases, .description {
+    width: 40%;
+    text-transform: capitalize;
+}
